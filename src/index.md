@@ -10,7 +10,7 @@ picture: img/profile.png
 picture-round: false
 side-by-side: true
 orcid: 0009-0009-7976-5973
-github: https://github.com/tianwengu
+github: /tianwengu
 ---
 
 I am a master's student in the **MPRI (Paris)** program.  
