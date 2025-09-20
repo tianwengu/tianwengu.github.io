@@ -35,7 +35,7 @@ I am motivated by bridging the gap between **theoretical models** and **practica
 ## 💼 Internships
 
 - **Research Internship — LMF, ENS Paris-Saclay / Université Paris-Saclay**  
-  *pring–Summer 2025 (MPRI M1)*  
+  *Spring–Summer 2025 (MPRI M1)*  
   **Supervisor:** Stéphane Demri  
   **Topic:** Automata-based decision procedures for description logics with concrete domains  
   - Studied nonemptiness problems for tree automata with global constraints (TGCA)  
