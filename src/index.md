@@ -10,8 +10,8 @@ picture: img/profile.png
 picture-round: false
 side-by-side: true
 orcid: 0009-0009-7976-5973
-github: /tianwengu
-linkedin: www.linkedin.com/in/tianwen-gu-187a46336
+github: tianwengu
+linkedin: https://www.linkedin.com/in/tianwen-gu-187a46336
 ---
 
 I am a master's student in the **MPRI (Paris)** program.  
