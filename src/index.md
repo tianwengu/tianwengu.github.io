@@ -7,7 +7,7 @@ og-url: https://tianwengu.github.io
 location: ENS Paris-Saclay
 email: tianwen.gu@universite-paris-saclay
 picture: img/profile.jpeg
-picture-round: false
+picture-round: true
 side-by-side: true
 orcid: 0009-0009-7976-5973
 github: tianwengu
