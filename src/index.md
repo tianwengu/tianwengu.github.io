@@ -26,8 +26,7 @@ I am motivated by bridging **theoretical models** and **verification tools**, ai
 ## Publications
 
 - **S. Demri and T. Gu.** *Robustness of Constraint Automata for Description Logics with Concrete Domains.*  
-  To appear in **CSL 2026 (LIPIcs)**. [preprint/link coming soon]
-
+  In **CSL 2026 (LIPIcs)**. [https://doi.org/10.4230/LIPIcs.CSL.2026.42](https://doi.org/10.4230/LIPIcs.CSL.2026.42)
 
 ## Education
 
