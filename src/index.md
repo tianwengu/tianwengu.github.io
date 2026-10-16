@@ -1,7 +1,7 @@
 ---
 title: Tianwen Gu
 author: Tianwen Gu
-shortbio: Master student in theoretical computer science
+shortbio: MPRI graduate in theoretical computer science
 description-meta: Academic homepage of Tianwen Gu.
 og-url: https://tianwengu.github.io
 location: ENS Paris-Saclay
@@ -14,7 +14,7 @@ github: tianwengu
 linkedin: https://www.linkedin.com/in/tianwen-gu-187a46336
 ---
 
-I am a master's student in the **MPRI (Paris)** program.  
+I graduated from the **MPRI (Paris)** master’s program in 2026.  
 My research interests are in **formal methods**, especially:
 
 - **Automata & logic** — foundations for specifying and reasoning about systems  
@@ -31,7 +31,7 @@ I am motivated by bridging **theoretical models** and **verification tools**, ai
 ## Education
 
 - **Université Paris-Saclay / ENS Paris-Saclay** — Master Parisien de Recherche en Informatique  
-  *2024 – 2026 (expected)*  
+  *2024 – 2026*  
   Focus: logic, formal methods, automata theory, verification, and algorithms  
 
 - **Université Paris-Saclay** — Bachelor’s in Computer Science and Mathematics  
@@ -39,6 +39,14 @@ I am motivated by bridging **theoretical models** and **verification tools**, ai
   Double degree program combining computer science and mathematics
 
 ## Internships
+
+- **Research Internship — LMF, ENS Paris-Saclay / Université Paris-Saclay**  
+  *2026 (MPRI M2)*  
+  **Supervisors:** Patricia Bouyer-Decitre and Dietmar Berwanger  
+  **Topic:** Synthesis of signalling strategies in distributed networks  
+  - Studied the decomposition of finite-state controllers into sender–receiver processes with bounded communication
+  - Characterized decomposability and minimum channel capacity for the basic sender–receiver architecture
+  - Investigated finite-state decomposition with receiver-private inputs
 
 - **Research Internship — LMF, ENS Paris-Saclay / Université Paris-Saclay**  
   *Spring–Summer 2025 (MPRI M1)*  
